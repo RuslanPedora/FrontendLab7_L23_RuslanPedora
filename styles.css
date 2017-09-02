@@ -1,0 +1,23 @@
+body {
+    font-family: cursive;
+}
+#calculator {
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 0 4px 4px rgb(100, 100, 100);
+    max-width: 500px;
+}
+#calculator p {
+    font-weight: bold;
+}
+#calculator select {
+    margin: 0 10px;
+    cursor: pointer;
+}
+#calculator button {
+    margin-left: 10px;
+    cursor: pointer;
+}
+#output {
+    margin: 15px 0 ;
+}
